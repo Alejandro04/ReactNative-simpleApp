@@ -1,4 +1,5 @@
 # ReactNative-simpleApp
 
-ReactNative simpleApp with Expo and React Elements
-Learning..
+<p>ReactNative simpleApp with Expo and React Elements</p>
+<p>Learning..</p>
+
